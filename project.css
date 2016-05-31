@@ -1,0 +1,164 @@
+#image {
+  display: block;
+  position: relative;
+  left: 5px;
+}
+
+nav a{
+  font-size: 20px;
+  text-decoration: vertical-align;
+  background-color:	fuchsia;
+  color: white;
+  border: 1px solid	mediumPurple;
+  text-shadow: rgb(255, 255, 255);
+  width: 120px;
+  display: inline-block;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  text-align: center;
+  left: 100px;
+  position: relative;
+  font-style: oblique;
+  opacity: 0.7;
+}
+
+#text {
+  position: absolute;
+  top: 45px;
+  left: 270px;
+  right: 0px;
+  font-size: 120px;
+  font-style: oblique;
+  color: fuchsia;
+  opacity: 0.5;
+}
+
+#image2{
+  top: 35px;
+  position: relative;
+  border: 5px dotted fuchsia;
+  left: 10px;
+}
+
+#image3{
+  top: 45px;
+  position: relative;
+  border: 5px dotted fuchsia;
+  left: 10px;
+}
+
+#image4{
+  top: 45px;
+  position: relative;
+  border: 5px dotted fuchsia;
+  left: 10px;
+}
+
+footer{
+  left: 0;
+  padding: 5px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background-color: fuchsia;
+  border: 2px solid fuchsia;
+  opacity: 0.7;  
+  color: white;
+  font-size: 17px;
+  font-style: oblique;
+}
+
+#image6,
+#image5,
+#image7,
+#image8,
+#image9,
+#image10,
+#image11{
+  border: 6px dashed fuchsia;
+}
+
+#image5{
+  position: relative;
+  top: 5px;
+}
+
+#image7,
+#image11{
+  width:340px;
+}
+
+#image7{
+  height: 220px;
+}
+
+#image9{
+  width: 380px;
+  height:300px;
+} 
+
+#iamge9,
+#image10,
+#image11{
+  height:300px;
+}
+
+#text2{
+  position: absolute;
+  border: 6px dashed fuchsia;
+  left: 780px;
+  right:550px;
+  top:320px;
+  font-size: 17px;
+  font-style: oblique;
+  text-align: center;
+}
+
+#readmore{
+  color: fuchsia;
+  position: absolute;
+  padding: 10px;
+  border: 1px solid fuchsia;
+  display: inline-block;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  top:515px;
+  left: 940px;
+}
+
+#text3{
+  column-count: 3;
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  font-style: oblique;
+  text-align: left;
+  position: absolute;
+  font-size: 18px;
+  top: 440px
+}
+
+#columns {
+  display: block;
+  position: fixed;
+  width: 1000px;
+}
+
+#image13{
+  position: relative;
+  width: 1000px;
+}
+
+#text4{
+  position: absolute;
+  font-size: 150px;
+  top: 30px;
+  left: 280px;
+  opacity: 0.5;
+}
